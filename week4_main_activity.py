@@ -4,10 +4,12 @@
 ##########################Reviewing somethings
 
 # indexing strings -- slide 4
-my_text = 'this is a text'
+my_text = 'this is a text '
 result = my_text  #get the index of the letter a
-print(result)
-
+print(result[5:9])
+#-1 is the last letter of the string
+#-2 is the second to last number of the string
+#prints the last letter of the text 
 #get the index of the third letter from the end of the text
 
 # find the index of the letter s
