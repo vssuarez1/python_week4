@@ -9,7 +9,7 @@ print(14)
 
 
 # Task 2: Calculate the remainder when 145 is divided by 12 using modulo and print the result.
-print(145%12
+print(145%12)
 
 # Task 3: Raise 7 to the power of 3 and print the result.
 print(7^3)
